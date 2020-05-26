@@ -11,7 +11,7 @@
 <script type="text/javascript">
 	
 	/* comment in java script */
-	document.write("<br><h1><strong><i>This is First Tutorial</i></strong></h1><br>"); 
+	document.write("<br><h1><strong><i>"+"This is First Tutorial"+"</i></strong></h1><br>"); 
 	document.write("<h1><strong>This is shubham Parajuli</strong></h1>");
 
 </script>
